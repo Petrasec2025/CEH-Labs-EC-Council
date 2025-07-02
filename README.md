@@ -68,7 +68,7 @@ I'm happy to mentor students and collaborate on projects. If you're building you
 📩 Email: petrasec.cyber@gmail.com  
 📱 WhatsApp: +971544560861  
 📞 Call: +971503258953  
-🌐 [LinkedIn](https://www.linkedin.com/in/petrascyberexpert)
+🌐 [LinkedIn](https://www.linkedin.com/in/petras-cyber))
 
 > I'm actively seeking cybersecurity internships, penetration tester roles, and collaborative research projects.
 
