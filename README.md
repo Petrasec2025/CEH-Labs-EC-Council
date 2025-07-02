@@ -8,58 +8,58 @@ I created these labs to simulate real-world cyberattack scenarios, sharpen my pe
 
 ## 🔍 Lab Topics Covered
 
-These are the core modules I’ve explored and documented:
-
-1. Footprinting and Reconnaissance  
-2. Scanning Networks  
-3. Enumeration  
-4. Vulnerability Analysis  
-5. System Hacking  
-6. Malware Threats  
-7. Sniffing  
-8. Social Engineering  
-9. Denial of Service (DoS)  
-10. Session Hijacking  
-11. Evading IDS, Firewalls, and Honeypots  
-12. Hacking Web Servers  
-13. Hacking Web Applications  
-14. SQL Injection  
-15. Hacking Wireless Networks  
-16. Hacking Mobile Platforms  
-17. IoT and OT Hacking  
-18. Cloud Computing Attacks  
-19. Cryptography
+| #  | Topic                                |
+|----|--------------------------------------|
+| 1  | Footprinting and Reconnaissance      |
+| 2  | Scanning Networks                    |
+| 3  | Enumeration                          |
+| 4  | Vulnerability Analysis               |
+| 5  | System Hacking                       |
+| 6  | Malware Threats                      |
+| 7  | Sniffing                             |
+| 8  | Social Engineering                   |
+| 9  | Denial of Service (DoS)              |
+| 10 | Session Hijacking                    |
+| 11 | Evading IDS, Firewalls, and Honeypots|
+| 12 | Hacking Web Servers                  |
+| 13 | Hacking Web Applications             |
+| 14 | SQL Injection                        |
+| 15 | Hacking Wireless Networks            |
+| 16 | Hacking Mobile Platforms             |
+| 17 | IoT and OT Hacking                   |
+| 18 | Cloud Computing Attacks              |
+| 19 | Cryptography                         |
 
 ---
 
 ## 🧠 What You’ll Find in Each Lab
 
 Each lab folder includes:
-- 📝 **Objective** – What I aimed to learn or prove
-- 🔧 **Tools Used** – Examples: Nmap, Metasploit, Burp Suite, Wireshark, SQLMap
-- 📜 **Methodology** – Step-by-step attack or testing approach
-- 📸 **Screenshots or Outputs** – Evidence of the lab being executed
-- 🛡️ **Mitigation** – How to defend against the attack
-
-These are all executed in a **safe lab environment** using platforms like TryHackMe, Hack The Box, or local VMs.
+- 📝 Objective  
+- 🔧 Tools Used  
+- 📜 Step-by-step Methodology  
+- 📸 Screenshots or Outputs  
+- 🛡️ Mitigation Recommendations
 
 ---
 
-## 🎯 Why This Matters
+## 🧰 Tools Commonly Used
 
-These labs demonstrate my:
-- Practical cybersecurity skills
-- Familiarity with red team operations
-- Understanding of security controls
-- Commitment to continuous improvement
-
-I built this to show future employers and collaborators that I can walk the talk — not just pass exams.
+| Tool           | Purpose                     |
+|----------------|-----------------------------|
+| Nmap           | Network scanning            |
+| Metasploit     | Exploitation framework      |
+| Wireshark      | Packet sniffing             |
+| SQLMap         | SQL injection automation    |
+| Burp Suite     | Web vulnerability scanning  |
+| Hydra          | Password brute-forcing      |
+| John the Ripper| Password cracking           |
 
 ---
 
 ## 🤝 Support & Collaboration
 
-I'm available to support students, junior professionals, or organizations that need help setting up labs, doing awareness training, or building cybersecurity learning paths.
+I'm happy to mentor students and collaborate on projects. If you're building your own lab or preparing for CEH, feel free to reach out.
 
 ---
 
@@ -68,6 +68,7 @@ I'm available to support students, junior professionals, or organizations that n
 📩 Email: petrasec.cyber@gmail.com  
 📱 WhatsApp: +971544560861  
 📞 Call: +971503258953  
-🌐 [LinkedIn](https://www.linkedin.com/in/petras-cyber)
+🌐 [LinkedIn](https://www.linkedin.com/in/petrascyberexpert)
 
-> I'm actively seeking cybersecurity internships, junior penetration tester roles, and collaborative security projects.
+> I'm actively seeking cybersecurity internships, penetration tester roles, and collaborative research projects.
+
