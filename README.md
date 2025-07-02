@@ -68,6 +68,6 @@ I'm available to support students, junior professionals, or organizations that n
 📩 Email: petrasec.cyber@gmail.com  
 📱 WhatsApp: +971544560861  
 📞 Call: +971503258953  
-🌐 [LinkedIn](https://www.linkedin.com/in/petrascyberexpert)
+🌐 [LinkedIn](https://www.linkedin.com/in/petras-cyber)
 
 > I'm actively seeking cybersecurity internships, junior penetration tester roles, and collaborative security projects.
